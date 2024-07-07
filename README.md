@@ -18,4 +18,4 @@ On error Ruban.exportedUI :
 
 > deleted .txt and import on excel app
 
-Bhd.
+Bhd
